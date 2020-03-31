@@ -1,0 +1,11 @@
+{
+  "data": [
+    { "value": "Mumbai", "label": "m1,m2,m3,m4,m5,m6,m7,m8,m9" },
+
+    { "value": "Banglore", "label": "b1,b2,b3,b4,b5,b6,b7,b8,b9" },
+
+    { "value": "Chennai", "label": "c1,c2,c3,c4,c5,c6,c7,c8,c9" },
+
+    { "value": "siliguri", "label": "s1,s2,s3,s4,s5,s6,s7,s8,s9" }
+  ]
+}
